@@ -1,0 +1,11 @@
+/* static/css/theme.css */
+:root {
+    --bg-color: #020617;
+    --primary-color: #22c55e;
+    --primary-light: #4ade80;
+    --accent-color: #38bdf8;
+    --text-color: #e5e7eb;
+    --muted-text: #9ca3af;
+    --card-bg: #020617;
+    --border-color: #1e293b;
+}
